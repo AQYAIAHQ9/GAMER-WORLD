@@ -42,3 +42,12 @@ https://blog.gamerworldgg.ga/hc/upport
 
 ### CONVITE DO SERVIDOR
 https://gamerworldgg.ga/discord?invite=7
+
+
+```diff
+- Não Derrespeite as regras, ou será punido
+
+- Para obter ajuda, chame um admin, ou entre no link de ajuda para se informar
+```
+
+``` Ajuda do servidor, não existe em falar com o suporte```
