@@ -1,13 +1,13 @@
 > 
 > # GamerWorld
-
+> 
 > * Regras:
-
-
+> 
+> 
 > 1_ Sem racismo, sem preconceito religioso, sem brigas, proibido Spam'ar mensagens nos Chats! (Só no #💢║₣ⱡøøđ)
 > 
 >
-
+> 
 > 2_ Caso queira conversar com uma pessoa por Comunicação, use as Call's de Comunicação do servidor, lembre-se que não é permitido gritar ou colocar um áudio estourado na Call!
 > 
 > 
@@ -42,7 +42,7 @@
 Precisa de [Ajuda](https://blog.gamerworldgg.ga/hc/support) ?
 
 ### CONVITE DO SERVIDOR
-Junte-se ao [Servidor](https://gamerworldgg.ga/discord?invite=7)!
+Junte-se ao [Servidor](https://gamerworldgg.ga/discord?invite=7) !
 
 
 ```diff
