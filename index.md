@@ -39,10 +39,10 @@
 > 9_ As Regras no servidor não são de brincadeira ou enfeite, isso acima point_up_2 tem que ser seguidas sempre, caso contrario, será Silenciado ou Banido!
 
 * Support
-https://blog.gamerworldgg.ga/hc/upport
+Precisa de [Ajuda](https://blog.gamerworldgg.ga/hc/support) ?
 
 ### CONVITE DO SERVIDOR
-https://gamerworldgg.ga/discord?invite=7
+Junte-se ao [Servidor](https://gamerworldgg.ga/discord?invite=7)!
 
 
 ```diff
