@@ -1,5 +1,6 @@
+![](https://cdn.discordapp.com/icons/815597091186409513/df735fb68d15085c372a618464cc4daf.png?size=2048)
 > 
-> # GamerWorld
+> <center><h1>GAMER WORLD</h1></center>
 > 
 > * Regras:
 > 
@@ -52,4 +53,3 @@ Junte-se ao [Servidor](https://gamerworldgg.ga/discord?invite=7) !
 ```
 
 ``` Ajuda do servidor, não existe em falar com o suporte```
-
