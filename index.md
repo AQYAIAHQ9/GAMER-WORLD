@@ -51,3 +51,4 @@ https://gamerworldgg.ga/discord?invite=7
 ```
 
 ``` Ajuda do servidor, não existe em falar com o suporte```
+
