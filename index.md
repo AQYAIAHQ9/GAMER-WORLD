@@ -1,4 +1,3 @@
-<html><head><title>GAMER WORLD</title></head><body><div><h1>GAMER WORLD</h1></div></body></html>
 ![](https://cdn.discordapp.com/icons/815597091186409513/df735fb68d15085c372a618464cc4daf.png?size=2048)
 > 
 > <center><h1>GAMER WORLD</h1></center>
