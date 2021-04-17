@@ -1,4 +1,4 @@
-### GamerWorld
+# GamerWorld
 
 * Regras:
 
